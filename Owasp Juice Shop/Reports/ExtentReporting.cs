@@ -18,8 +18,6 @@ namespace Owasp_Juice_Shop.Reports
 
         public static void InitializeReport()
         {
-            // Specify the report path
-
             //Windows
             //string reportPath = "C:\\TestReports\\ExtentReport.html";
 
