@@ -1,30 +1,30 @@
-﻿<Properties StartupConfiguration="{9C60ABCA-9027-4D22-A872-07AEA3854C9C}|Unit Tests">
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{9C60ABCA-9027-4D22-A872-07AEA3854C9C}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Reports/ExtentReporting.cs">
     <Files>
-      <File FileName="TestSuite/SmokeTest.cs" Line="3" Column="30" />
+      <File FileName="TestSuite/SmokeTest.cs" />
+      <File FileName="Reports/ExtentReporting.cs" Line="20" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Candy Mapper" expanded="True">
-            <Node name="Candy Mapper" selected="True" />
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="Candy Mapper" expanded="True">
-            <Node name="Candy Mapper" selected="True" />
+          <Node name="Candy Mapper">
+            <Node name="Candy Mapper">
+              <Node name="Reports" expanded="True">
+                <Node name="ExtentReporting.cs" selected="True" />
+              </Node>
+              <Node name="TestData" expanded="True" />
+              <Node name="TestSuite" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Candy_220Mapper PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Candy_220Mapper PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

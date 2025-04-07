@@ -20,38 +20,38 @@ namespace Candy_Mapper.Test_Methods
 
         public void ClickOnCrossButton()
         {
-            ExtentReporting.LogInfo("Click on Cross Button");
             Thread.Sleep(1000);
             crossButton.Click();
+            ExtentReporting.LogInfo("Clicked on Cross Button");
         }
         public void ClickOnAccountButton()
         {
-            ExtentReporting.LogInfo("Click on Account Button");
             Thread.Sleep(1000);
             accountButton.Click();
+            ExtentReporting.LogInfo("Clicked on Account Button");
         }
         public void ClickOnSignInButton()
         {
-            ExtentReporting.LogInfo("Click on Sign In Button");
 
             Thread.Sleep(1000);
             signInButton.Click();
+            ExtentReporting.LogInfo("Clicked on Sign In Button");
         }
         public void InputData(string email, string password)
         {
-            ExtentReporting.LogInfo("Input Email and password");
 
             Thread.Sleep(1000);
             emailInput.SendKeys(email);
             Thread.Sleep(1000);
             passwordInput.SendKeys(password);
+            ExtentReporting.LogInfo("Input Email and password");
         }
         public void ClickOnSignInSubmitButton()
         {
-            ExtentReporting.LogInfo("Click on Submit Button");
 
             Thread.Sleep(1000);
             signInSubmitButton.Click();
+            ExtentReporting.LogInfo("Clicked on Submit Button");
             Thread.Sleep(1000);
         }
         public bool VerifyLoginSuccessfully()
