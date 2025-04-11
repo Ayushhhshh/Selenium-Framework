@@ -1,20 +1,16 @@
 ﻿<Properties StartupConfiguration="{9C60ABCA-9027-4D22-A872-07AEA3854C9C}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Reports/ExtentReporting.cs">
     <Files>
       <File FileName="TestSuite/SmokeTest.cs" />
-      <File FileName="Reports/ExtentReporting.cs" Line="20" Column="10" />
+      <File FileName="Reports/ExtentReporting.cs" Line="30" Column="11" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Candy Mapper">
-            <Node name="Candy Mapper">
-              <Node name="Reports" expanded="True">
-                <Node name="ExtentReporting.cs" selected="True" />
-              </Node>
+            <Node name="Candy Mapper" expanded="True">
+              <Node name="Reports" expanded="True" />
               <Node name="TestData" expanded="True" />
               <Node name="TestSuite" expanded="True" />
             </Node>
@@ -23,8 +19,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Candy_220Mapper PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
