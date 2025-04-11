@@ -10018,11 +10018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ayushsmac/Desktop/Selenium-Framework-main/Owasp Juice Shop/Candy Mapper.csproj",
+      "projectUniqueName": "/Users/ayushsmac/Desktop/Selenium-Framework/Owasp Juice Shop/Candy Mapper.csproj",
       "projectName": "Candy Mapper",
-      "projectPath": "/Users/ayushsmac/Desktop/Selenium-Framework-main/Owasp Juice Shop/Candy Mapper.csproj",
+      "projectPath": "/Users/ayushsmac/Desktop/Selenium-Framework/Owasp Juice Shop/Candy Mapper.csproj",
       "packagesPath": "/Users/ayushsmac/.nuget/packages/",
-      "outputPath": "/Users/ayushsmac/Desktop/Selenium-Framework-main/Owasp Juice Shop/obj/",
+      "outputPath": "/Users/ayushsmac/Desktop/Selenium-Framework/Owasp Juice Shop/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ayushsmac/.nuget/NuGet/NuGet.Config"

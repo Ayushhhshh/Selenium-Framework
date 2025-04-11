@@ -22,7 +22,7 @@ namespace Owasp_Juice_Shop.Reports
             //string reportPath = "C:\\TestReports\\ExtentReport.html";
 
             //Mac
-            string reportPath = "/Users/ayushsmac/Desktop/TestReports/ExtentReport.html";
+            string reportPath = "/Users/ayushsmac/Desktop/TestReports/Report.html";
             Console.WriteLine(reportPath);
             _htmlReporter = new ExtentHtmlReporter(reportPath);
             _extent = new AventStack.ExtentReports.ExtentReports();
