@@ -16,7 +16,7 @@ namespace Candy_Mapper.Pages
             this.driver = driver;
         }
 
-        public IWebElement crossButton => driver.FindElement(By.Id("popup-widget25042-close-icon"));
+        public IWebElement crossButton => driver.FindElement(By.Id("popup-widget307423-close-icon"));
         public IWebElement accountButton => driver.FindElement(By.XPath("(//a[@data-aid='MEMBERSHIP_ICON_DESKTOP_RENDERED'])[1]"));
         public IWebElement signInButton => driver.FindElement(By.XPath("(//a[contains(text(),'Sign In')])[1]"));
         public IWebElement emailInput => driver.FindElement(By.XPath("//input[@name='email']"));

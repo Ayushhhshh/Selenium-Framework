@@ -1,5 +1,6 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Safari;
 using NUnit.Framework;
 using System;
 using Candy_Mapper;
